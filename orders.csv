@@ -1,0 +1,11 @@
+product,category,price,quantity
+laptop,electronics,950.00,3
+mouse,electronics,25.50,40
+keyboard,electronics,70.00,15
+notebook,stationery,2.50,200
+pen,stationery,0.80,500
+stapler,stationery,6.00,35
+desk lamp,home,32.00,22
+chair,home,120.00,9
+mug,home,7.50,60
+backpack,home,45.00,18
